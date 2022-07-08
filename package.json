@@ -1,0 +1,14 @@
+{
+  "name": "legacy-cypress-sandbox",
+  "version": "1.0.0",
+  "description": "project for testing pre-10 Cypress versions",
+  "main": "index.js",
+  "scripts": {
+    "cypress": "node_modules/.bin/cypress run --headless"
+  },
+  "dependencies": {
+    "cypress": "^8.7.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
